@@ -46,3 +46,26 @@ a {
 ul {
   list-style-type: none;
 }
+/* Solution */
+.header{
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+}
+.profile-image{
+  margin: 8px;
+}
+.logo{
+  margin: 8px;
+}
+ul{
+  margin: 8px;
+  padding: 0px;
+  display: flex;
+  gap: 10px;
+}
+#blank{
+  flex: 2 1 0;
+}
