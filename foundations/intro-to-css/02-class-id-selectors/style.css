@@ -1,0 +1,16 @@
+.para{
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#divi1{
+    color: blue;
+    font-size: 36px;
+}
+.graph{
+    font-size: 24px;
+}
+#divi2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
